@@ -1,0 +1,42 @@
+1. selenium webdriver
+     a.eclipse -> eclipse.exe
+     b.jars    -> 1.chromedriver.exe
+                  2.geckodriver.exe   
+                  3.IEDriverServer.exe
+                  4.jxl.jar
+                  5.selenium-server-standalone-2.53.0.jar(supports 33 version firefox)
+                  6.selenium-server-standalone-3.14.0.jar
+
+
+     c.work4
+      ( eclipse projects what we created is stored)
+     d.data.xls
+
+
+
+2.selenium RC
+    a.eclipse -> eclipse.exe
+    b.jars -> 1. selenium-server-standalone-2.44.0.jar
+    c.work1
+
+
+
+3.framework
+
+  a. eclipse -> eclipse.exe
+  b.jars or dependencies -> 1.chromedriver.exe
+                  2.geckodriver.exe   
+                  3.IEDriverServer.exe
+                  4.jxl.jar
+                  5.selenium-server-standalone-2.53.0.jar(supports 33 version firefox)
+                  6.selenium-server-standalone-3.14.0.jar
+
+  c.Test Cases ->1. ramesh
+                 2.ravi
+                 3.roopa
+                 4.suma
+
+  d.Test Data
+  e.Test Results
+  f.Test Scripts
+ 

@@ -1,0 +1,8 @@
+
+
+public static final String URL = "https://" + USERNAME + ":" + AUTOMATE_KEY + "@hub-cloud.browserstack.com/wd/hub";
+
+https://" + USERNAME + ":" + AUTOMATE_KEY + "@hub-cloud.browserstack.com/wd/hub";
+
+
+https://sugayathri1:x4GpxqQGmcppUtjBmaPm@hub-cloud.browserstack.com/wd/hub";
